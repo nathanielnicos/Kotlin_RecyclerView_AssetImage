@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Belajar Recycler View</string>
+    <string name="detail">Detail</string>
+    <string name="name">Name</string>
+</resources>
